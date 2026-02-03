@@ -18,7 +18,7 @@ The linguistic landscape of judgments reveals a systemic difference in judicial 
 | **UK Judgments: "Human-Centric"** | **China Judgments: "Asset-Centric"** |
 |:---------------------------------:|:-----------------------------------:|
 | ![UK WordCloud](assets/wordcloud_uk.png) | ![China WordCloud](assets/wordcloud_cn.png) |
-| Dominance of **"Child"**, **"Needs"**, **"Care"**. Reflects the *Welfare Principle* and *Dynamic Fairness*. | Dominance of **"Property" (房产)**, **"Payment" (支付)**. Reflects the *Formal Equality Trap* and transactional focus. |
+| Dominance of **"Child"**, **"Needs"**, **"Care"**. Reflects the *Welfare Principle* and *Dynamic Fairness*. | Dominance of **"Property" (财产)**, **"Payment" (支付)**. Reflects the *Formal Equality Trap* and transactional focus. |
 
 ### Statistical Analysis: Hypothesis Testing
 These visual patterns are **statistically significant**:
