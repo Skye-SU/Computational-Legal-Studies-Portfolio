@@ -62,7 +62,7 @@ This portfolio demonstrates a progressive pipeline from raw legal text to policy
    jupyter notebook notebooks/01_legal_text_processing.ipynb
 
 ## 👩‍💻 About the Author
-I am a Master's graduate in Social Policy (Lingnan University, expected Dec 2025) with a background in qualitative research. This project represents my pivot into Computational Law, aiming to leverage AI and data to:
+I am a Master's graduate in Social Policy (Lingnan University, Dec 2025) with a background in qualitative research. This project represents my pivot into Computational Law, aiming to leverage AI and data to:
 
 1. **Reduce the "drudgery" of legal research.**
 2. **Provide empirical evidence to support substantive justice reforms.**
