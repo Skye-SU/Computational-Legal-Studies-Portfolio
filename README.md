@@ -72,5 +72,5 @@ This portfolio demonstrates a progressive pipeline from raw legal text to policy
 
 ## 👩‍💻 About the Author
 **Skye SU**  
-*Master of Laws (LLM) @ University of Edinburgh*  
+*Master of Social Policy, Lingnan University*  
 Interested in Legal Tech, Data-Driven Policy, and Gender Equality.
