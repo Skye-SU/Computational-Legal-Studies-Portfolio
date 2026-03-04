@@ -70,7 +70,7 @@ This portfolio demonstrates a progressive pipeline from raw legal text to policy
    jupyter notebook notebooks/01_legal_text_processing.ipynb
    ```
 
-> **Note:** Step 1 (Data Collection) downloads ~50 UK judgments from BAILII with ethical rate limiting, which takes approximately 5-10 minutes. China judgment PDFs are included in the `data/china_judgments/` directory. Subsequent analysis steps run in under a minute.
+> **Note:** Step 1 (Data Collection) downloads ~50 UK judgments from BAILII with ethical rate limiting (~5-10 min). China judgment PDFs are **not included** in this repository due to data licensing restrictions — place your own PDFs in `data/china_judgments/` to run the full pipeline, or the notebook will automatically proceed with UK-only analysis.
 
 ## 👩‍💻 About the Author
 **Skye SU**  
